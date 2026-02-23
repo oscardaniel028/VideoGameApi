@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\bin\Debug\net8.0\VideoGameApi.Data.deps.json
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\bin\Debug\net8.0\VideoGameApi.Data.runtimeconfig.json
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\bin\Debug\net8.0\VideoGameApi.Data.dll
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\bin\Debug\net8.0\VideoGameApi.Data.pdb
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\obj\Debug\net8.0\VideoGameApi.Data.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\obj\Debug\net8.0\VideoGameApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\obj\Debug\net8.0\VideoGameApi.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\obj\Debug\net8.0\VideoGameApi.Data.AssemblyInfo.cs
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\obj\Debug\net8.0\VideoGameApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\obj\Debug\net8.0\VideoGameApi.Data.sourcelink.json
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\obj\Debug\net8.0\VideoGameApi.Data.dll
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\obj\Debug\net8.0\refint\VideoGameApi.Data.dll
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\obj\Debug\net8.0\VideoGameApi.Data.pdb
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\obj\Debug\net8.0\VideoGameApi.Data.genruntimeconfig.cache
+C:\Users\User\Documents\Desarrollo\VideoGameApi\VideoGameApi.Data\obj\Debug\net8.0\ref\VideoGameApi.Data.dll

@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED14E20-1AA1-4AE0-8BFB-3E3D621E3317}|VideoGameApi.Business\\VideoGameApi.Business.csproj|c:\\users\\user\\documents\\desarrollo\\videogameapi\\videogameapi.business\\servicios\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED14E20-1AA1-4AE0-8BFB-3E3D621E3317}|VideoGameApi.Business\\VideoGameApi.Business.csproj|solutionrelative:videogameapi.business\\servicios\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021BC04E-D2F0-4B5C-B342-301B3751833F}|VideoGameApi.Data\\VideoGameApi.Data.csproj|c:\\users\\user\\documents\\desarrollo\\videogameapi\\videogameapi.data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021BC04E-D2F0-4B5C-B342-301B3751833F}|VideoGameApi.Data\\VideoGameApi.Data.csproj|solutionrelative:videogameapi.data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED14E20-1AA1-4AE0-8BFB-3E3D621E3317}|VideoGameApi.Business\\VideoGameApi.Business.csproj|c:\\users\\user\\documents\\desarrollo\\videogameapi\\videogameapi.business\\servicios\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED14E20-1AA1-4AE0-8BFB-3E3D621E3317}|VideoGameApi.Business\\VideoGameApi.Business.csproj|solutionrelative:videogameapi.business\\servicios\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99D040D-7F1E-4939-A04E-9A48CE1F2E73}|VideoGameApi.Repository\\VideoGameApi.Repository.csproj|c:\\users\\user\\documents\\desarrollo\\videogameapi\\videogameapi.repository\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99D040D-7F1E-4939-A04E-9A48CE1F2E73}|VideoGameApi.Repository\\VideoGameApi.Repository.csproj|solutionrelative:videogameapi.repository\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D53354-242A-4F4C-A3B8-980C8E9EEF99}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\user\\documents\\desarrollo\\videogameapi\\videogameapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D53354-242A-4F4C-A3B8-980C8E9EEF99}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D53354-242A-4F4C-A3B8-980C8E9EEF99}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\user\\documents\\desarrollo\\videogameapi\\videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D53354-242A-4F4C-A3B8-980C8E9EEF99}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED14E20-1AA1-4AE0-8BFB-3E3D621E3317}|VideoGameApi.Business\\VideoGameApi.Business.csproj|c:\\users\\user\\documents\\desarrollo\\videogameapi\\videogameapi.business\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED14E20-1AA1-4AE0-8BFB-3E3D621E3317}|VideoGameApi.Business\\VideoGameApi.Business.csproj|solutionrelative:videogameapi.business\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED14E20-1AA1-4AE0-8BFB-3E3D621E3317}|VideoGameApi.Business\\VideoGameApi.Business.csproj|c:\\users\\user\\documents\\desarrollo\\videogameapi\\videogameapi.business\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED14E20-1AA1-4AE0-8BFB-3E3D621E3317}|VideoGameApi.Business\\VideoGameApi.Business.csproj|solutionrelative:videogameapi.business\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi.Data\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "VideoGameApi.Data\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi.Data\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "VideoGameApi.Data\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:15:12.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi.Repository\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "VideoGameApi.Repository\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi.Repository\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "VideoGameApi.Repository\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:09:32.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi.Business\\Servicios\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "VideoGameApi.Business\\Servicios\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi.Business\\Servicios\\AuthenticationService.cs",
+              "RelativeToolTip": "VideoGameApi.Business\\Servicios\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:08:50.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi.Business\\Servicios\\UserService.cs",
+              "RelativeDocumentMoniker": "VideoGameApi.Business\\Servicios\\UserService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi.Business\\Servicios\\UserService.cs",
+              "RelativeToolTip": "VideoGameApi.Business\\Servicios\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwB8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:08:26.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi.Business\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "VideoGameApi.Business\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi.Business\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "VideoGameApi.Business\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:04:15.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "VideoGameApi\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:04:08.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi\\Program.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi\\Program.cs",
+              "RelativeToolTip": "VideoGameApi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:01:59.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi.Business\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "VideoGameApi.Business\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo\\VideoGameApi\\VideoGameApi.Business\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "VideoGameApi.Business\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:01:54.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
